@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Documento sem título</title>
+  </head>
+  
+  <body>
+
+
+	<h3>Ingredientes:</h3>
+<p>
+1 kg de açúcar refinado
+400 g de leite em pó
+400 ml de água
+1 colher de margarina
+</p> 
+<br/>
+
+	<h3>Modo de Preparo:</h3>
+<p>	
+Unte uma forma com manteiga.
+
+Em uma panela grande, misture todos os ingredientes.
+
+Leve ao fogo baixo, mexendo sempre.
+
+Quando chegar ao ponto de desgrudar do fundo da panela, mexa por mais 5 minutos com fogo baixo.
+
+Após desligar a panela, mexa por mais 3 minutos.
+
+Coloque o doce na forma untada, espere esfriar e depois corte.
+</p>
+</body>
+</html>
